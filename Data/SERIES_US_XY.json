@@ -1,0 +1,124 @@
+{
+  "Key": "SERIES_US_XY",
+  "Title": "Pokémon TCG: XY Series",
+  "ShortTitle": "XY Series",
+  "Products": [
+    {
+      "Key": "PRODUCT_US_XY_XYP",
+      "Abbreviation": "PR",
+      "Title": "Promo",
+      "Type": "Promo"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY12",
+      "Abbreviation": "EVO",
+      "Title": "Evolutions",
+      "Type": "Expansion",
+      "ReleaseDate": "2016-11-02T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY11",
+      "Abbreviation": "STS",
+      "Title": "Steam Siege",
+      "Type": "Expansion",
+      "ReleaseDate": "2016-08-03T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY10",
+      "Abbreviation": "FCO",
+      "Title": "Fates Collide",
+      "Type": "Expansion",
+      "ReleaseDate": "2016-05-02T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_G1",
+      "Abbreviation": "GEN",
+      "Title": "Generations",
+      "Type": "Expansion",
+      "ReleaseDate": "2016-02-22T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY9",
+      "Abbreviation": "BKP",
+      "Title": "BREAKpoint",
+      "Type": "Expansion",
+      "ReleaseDate": "2016-02-03T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY8",
+      "Abbreviation": "BKT",
+      "Title": "BREAKthrough",
+      "Type": "Expansion",
+      "ReleaseDate": "2015-11-04T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY7",
+      "Abbreviation": "AOR",
+      "Title": "Ancient Origins",
+      "Type": "Expansion",
+      "ReleaseDate": "2015-08-12T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY6",
+      "Abbreviation": "ROS",
+      "Title": "Roaring Skies",
+      "Type": "Expansion",
+      "ReleaseDate": "2015-05-06T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_DC1",
+      "Abbreviation": "DCR",
+      "Title": "Double Crisis",
+      "Type": "Expansion",
+      "ReleaseDate": "2015-03-25T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY5",
+      "Abbreviation": "PRC",
+      "Title": "Primal Clash",
+      "Type": "Expansion",
+      "ReleaseDate": "2015-02-04T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY4",
+      "Abbreviation": "PHF",
+      "Title": "Phantom Forces",
+      "Type": "Expansion",
+      "ReleaseDate": "2014-11-05T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY3",
+      "Abbreviation": "FFI",
+      "Title": "Furious Fists",
+      "Type": "Expansion",
+      "ReleaseDate": "2014-08-13T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY2",
+      "Abbreviation": "FLF",
+      "Title": "Flashfire",
+      "Type": "Expansion",
+      "ReleaseDate": "2014-05-07T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY1",
+      "Abbreviation": "XY",
+      "Title": "XY",
+      "Type": "Expansion",
+      "ReleaseDate": "2014-02-05T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XY0",
+      "Abbreviation": "KSS",
+      "Title": "Kalos Starter Set",
+      "Type": "Expansion",
+      "ReleaseDate": "2013-11-08T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_XY_XYA",
+      "Abbreviation": "XYA",
+      "Title": "Yellow A Alternate",
+      "Type": "Expansion"
+    }
+  ]
+}

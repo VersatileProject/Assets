@@ -1,0 +1,40 @@
+{
+  "Key": "SERIES_CN_S",
+  "Title": "宝可梦集换式卡牌游戏 剑&盾系列",
+  "ShortTitle": "剑&盾系列",
+  "ReleaseDate": "2023-05-19",
+  "Products": [
+    {
+      "Key": "PRODUCT_CN_S_CS1AC",
+      "Title": "补充包 极巨争锋 雷",
+      "Type": "Expansion",
+      "Abbreviation": "CS1",
+      "ReleaseDate": "2023-05-19T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_15.html"
+    },
+    {
+      "Key": "PRODUCT_CN_S_CS1BC",
+      "Title": "补充包 极巨争锋 焰",
+      "Type": "Expansion",
+      "Abbreviation": "CS1",
+      "ReleaseDate": "2023-05-19T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_15.html"
+    },
+    {
+      "Key": "PRODUCT_CN_S_CS1DC",
+      "Title": "起始卡组 【极巨争锋 V起始卡组】",
+      "Type": "Construction",
+      "Abbreviation": "CS1",
+      "ReleaseDate": "2023-05-19T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_15.html"
+    },
+    {
+      "Key": "PRODUCT_CN_S_CSAC",
+      "Title": "极巨争锋 卡组构筑礼盒",
+      "Type": "Other",
+      "Abbreviation": "CSAC",
+      "ReleaseDate": "2023-05-19T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_15.html"
+    }
+  ]
+}

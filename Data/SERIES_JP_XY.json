@@ -1,0 +1,181 @@
+{
+  "Key": "SERIES_JP_XY",
+  "Title": "ポケモンカードゲームXYシリーズ",
+  "ShortTitle": "XYシリーズ",
+  "Products": [
+    {
+      "Key": "PRODUCT_JP_XY_XYP",
+      "Abbreviation": "XY-P",
+      "Title": "プロモカード",
+      "Type": "Other"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_MMBP",
+      "Title": "「メガマスターデッキビルドBOX パワースタイル」",
+      "Type": "Other",
+      "Abbreviation": "MMB",
+      "ReleaseDate": "2015-08-07T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/mmb.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_MMBS",
+      "Title": "「メガマスターデッキビルドBOX スピードスタイル」",
+      "Type": "Other",
+      "Abbreviation": "MMB",
+      "ReleaseDate": "2015-08-07T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/mmb.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XYE",
+      "Title": "対戦スタートセット30「エンブオーEX VS トゲキッスEX」",
+      "Type": "Construction",
+      "Abbreviation": "XYᴇ",
+      "ReleaseDate": "2015-07-18T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xye.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_CP2",
+      "Title": "コンセプトパック「伝説キラコレクション」",
+      "Type": "Expansion",
+      "Abbreviation": "CP2",
+      "ReleaseDate": "2015-07-18T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/cp2.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XY7B",
+      "Title": "拡張パック「バンデットリング」",
+      "Type": "Expansion",
+      "Abbreviation": "XY7",
+      "ReleaseDate": "2015-06-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy7.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XYD",
+      "Title": "メガバトルデッキ60「MレックウザEX」",
+      "Type": "Construction",
+      "Abbreviation": "XYᴅ",
+      "ReleaseDate": "2015-03-14T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xyd.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XY6B",
+      "Title": "拡張パック「エメラルドブレイク」",
+      "Type": "Expansion",
+      "Abbreviation": "XY6",
+      "ReleaseDate": "2015-03-14T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy6.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_CP1",
+      "Title": "コンセプトパック「マグマ団VSアクア団　ダブルクライシス」",
+      "Type": "Expansion",
+      "Abbreviation": "CP1",
+      "ReleaseDate": "2015-01-30T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/cp1.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XYC",
+      "Title": "スーパーレジェンドセット60「ゼルネアスEX・イベルタルEX」",
+      "Type": "Construction",
+      "Abbreviation": "XYᴄ",
+      "ReleaseDate": "2014-11-14T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/legend60.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XYB",
+      "Title": "ハイパーメタルチェーンデッキ60「ディアルガEX+ギルガルドEX」",
+      "Type": "Construction",
+      "Abbreviation": "XYʙ",
+      "ReleaseDate": "2014-09-13T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/metal60.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XY5BG",
+      "Title": "拡張パック「ガイアボルケーノ」",
+      "Type": "Expansion",
+      "Abbreviation": "XY5",
+      "ReleaseDate": "2014-12-13T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy5.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XY5BT",
+      "Title": "拡張パック「タイダルストーム」",
+      "Type": "Expansion",
+      "Abbreviation": "XY5",
+      "ReleaseDate": "2014-12-13T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy5.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XY4",
+      "Title": "拡張パック「ファントムゲート」",
+      "Type": "Expansion",
+      "Abbreviation": "XY4",
+      "ReleaseDate": "2014-09-13T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy4.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XY3",
+      "Title": "拡張パック「ライジングフィスト」",
+      "Type": "Expansion",
+      "Abbreviation": "XY3",
+      "ReleaseDate": "2014-06-14T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy3.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XYA",
+      "Title": "メガバトルデッキ60「MリザードンEX」",
+      "Type": "Construction",
+      "Abbreviation": "XYᴀ",
+      "ReleaseDate": "2014-03-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy2.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XY2",
+      "Title": "拡張パック「ワイルドブレイズ」",
+      "Type": "Expansion",
+      "Abbreviation": "XY2",
+      "ReleaseDate": "2014-03-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy2.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_X30",
+      "Title": "「ゼルネアスデッキ30」",
+      "Type": "Construction",
+      "Abbreviation": "X30",
+      "ReleaseDate": "2014-01-31T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/x30y30.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_Y30",
+      "Title": "「イベルタルデッキ30」",
+      "Type": "Construction",
+      "Abbreviation": "Y30",
+      "ReleaseDate": "2014-01-31T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/x30y30.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XY1BX",
+      "Title": "拡張パック「コレクションX」",
+      "Type": "Expansion",
+      "Abbreviation": "XY1",
+      "ReleaseDate": "2013-12-13T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy1.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_XY1BY",
+      "Title": "拡張パック「コレクションY」",
+      "Type": "Expansion",
+      "Abbreviation": "XY1",
+      "ReleaseDate": "2013-12-13T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy1.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XY_HXY",
+      "Title": "「はじめてセット」「はじめてセット forガール」",
+      "Type": "Expansion",
+      "Abbreviation": "HXY",
+      "ReleaseDate": "2013-11-08T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/hs.html"
+    }
+  ]
+}

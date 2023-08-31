@@ -1,0 +1,167 @@
+{
+  "Key": "SERIES_JP_DPT",
+  "Title": "ポケモンカードゲーム\u3000DPtシリーズ",
+  "ShortTitle": "DPtシリーズ",
+  "Products": [
+    {
+      "Key": "PRODUCT_JP_DPT_DPTP",
+      "Title": "プロモーションカード",
+      "Type": "Promo",
+      "Abbreviation": "DPt-P"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPTEPG",
+      "Title": "エントリーパック（ギラティナデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt-EP",
+      "ReleaseDate": "2008-10-10T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPTEPD",
+      "Title": "エントリーパック（ディアルガデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt-EP",
+      "ReleaseDate": "2008-10-10T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPTEPP",
+      "Title": "エントリーパック（パルキアデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt-EP",
+      "ReleaseDate": "2008-10-10T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT1B",
+      "Title": "拡張パック「ギンガの覇道」",
+      "Type": "Expansion",
+      "Abbreviation": "DPt1-B",
+      "ReleaseDate": "2008-10-10T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPTGBHI",
+      "Title": "ギフトボックス（ナエトルデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt-GB",
+      "ReleaseDate": "2008-11-12T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPTGBNA",
+      "Title": "ギフトボックス（ヒコザルデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt-GB",
+      "ReleaseDate": "2008-11-12T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPTGBPO",
+      "Title": "ギフトボックス（ポッチャマデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt-GB",
+      "ReleaseDate": "2008-11-12T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPTGBPI",
+      "Title": "ギフトボックス（ピカチュウデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt-GB",
+      "ReleaseDate": "2008-11-12T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT2SG",
+      "Title": "対戦スターターパックSP「ゴウカザルVSエルレイド」（ゴウカザルデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt2-S",
+      "ReleaseDate": "2008-12-26T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT2SE",
+      "Title": "対戦スターターパックSP「ゴウカザルVSエルレイド」（エルレイドデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt3-S",
+      "ReleaseDate": "2008-12-26T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT2B",
+      "Title": "拡張パック「時の果ての絆」",
+      "Type": "Expansion",
+      "Abbreviation": "DPt2-B",
+      "ReleaseDate": "2008-12-26T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT3SG",
+      "Title": "対戦スターターパックSP「ガブリアスVSリザードン」（ガブリアスデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt3-S",
+      "ReleaseDate": "2009-03-06T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT3SL",
+      "Title": "対戦スターターパックSP「ガブリアスVSリザードン」（リザードンデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "DPt3-S",
+      "ReleaseDate": "2009-03-06T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT3B",
+      "Title": "拡張パック「フロンティアの鼓動」",
+      "Type": "Expansion",
+      "Abbreviation": "DPt3-B",
+      "ReleaseDate": "2009-03-06T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_CPS",
+      "Title": "ポケモンカードゲーム コレクションパック シェイミLV.X",
+      "Type": "Other",
+      "Abbreviation": "CP",
+      "ReleaseDate": "2009-04-18T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_CPM",
+      "Title": "ポケモンカードゲーム コレクションパック ミュウツーLV.X",
+      "Type": "Other",
+      "Abbreviation": "CP",
+      "ReleaseDate": "2009-04-18T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_CPR",
+      "Title": "ポケモンカードゲーム コレクションパック レジギガスLV.X",
+      "Type": "Other",
+      "Abbreviation": "CP",
+      "ReleaseDate": "2009-04-18T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT4SGF",
+      "Title": "構築スタンダードデッキ「アルセウスLV.X 草&炎」",
+      "Type": "Construction",
+      "Abbreviation": "DPt4-S",
+      "ReleaseDate": "2009-07-08T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT4SLP",
+      "Title": "構築スタンダードデッキ「アルセウスLV.X 雷&超」",
+      "Type": "Construction",
+      "Abbreviation": "DPt4-S",
+      "ReleaseDate": "2009-07-08T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPT4B",
+      "Title": "拡張パック「アルセウス光臨」",
+      "Type": "Expansion",
+      "Abbreviation": "DPt4-B",
+      "ReleaseDate": "2009-07-08T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_RAN",
+      "Title": "乱戦！ポケモンスクランブル×ポケモンカードゲーム",
+      "Type": "Other",
+      "Abbreviation": "乱",
+      "ReleaseDate": "2009-07-10T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DPT_DPTMRP09",
+      "Title": "ポケモンカードゲーム 映画公開記念 ランダムパック2009",
+      "Type": "Other",
+      "Abbreviation": "MRP09",
+      "ReleaseDate": "2009-08-08T00:00:00"
+    }
+  ]
+}

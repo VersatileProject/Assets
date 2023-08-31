@@ -1,0 +1,77 @@
+{
+  "Key": "SERIES_US_DP",
+  "Title": "Pokémon TCG: Diamond & Pearl Series",
+  "ShortTitle": "Diamond & Pearl Series",
+  "Products": [
+    {
+      "Key": "PRODUCT_US_DP_DP7",
+      "Abbreviation": "SF",
+      "Title": "Stormfront",
+      "Type": "Expansion",
+      "ReleaseDate": "2008-11-05T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_DP_POP8",
+      "Abbreviation": "POP8",
+      "Title": "POP Series 8",
+      "Type": "Expansion",
+      "ReleaseDate": "2008-09-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_DP_DP6",
+      "Abbreviation": "LA",
+      "Title": "Legends Awakened",
+      "Type": "Expansion",
+      "ReleaseDate": "2008-08-20T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_DP_DP5",
+      "Abbreviation": "MD",
+      "Title": "Majestic Dawn",
+      "Type": "Expansion",
+      "ReleaseDate": "2008-05-21T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_DP_POP7",
+      "Abbreviation": "POP7",
+      "Title": "POP Series 7",
+      "Type": "Expansion",
+      "ReleaseDate": "2008-03-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_DP_DP4",
+      "Abbreviation": "GE",
+      "Title": "Great Encounters",
+      "Type": "Expansion",
+      "ReleaseDate": "2008-02-13T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_DP_DP3",
+      "Abbreviation": "SW",
+      "Title": "Secret Wonders",
+      "Type": "Expansion",
+      "ReleaseDate": "2007-11-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_DP_POP6",
+      "Abbreviation": "POP6",
+      "Title": "POP Series 6",
+      "Type": "Expansion",
+      "ReleaseDate": "2007-09-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_DP_DP2",
+      "Abbreviation": "MT",
+      "Title": "Mysterious Treasures",
+      "Type": "Expansion",
+      "ReleaseDate": "2007-08-22T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_DP_DP1",
+      "Abbreviation": "DP",
+      "Title": "Diamond & Pearl",
+      "Type": "Expansion",
+      "ReleaseDate": "2007-05-23T00:00:00"
+    }
+  ]
+}

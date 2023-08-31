@@ -1,0 +1,11 @@
+[
+  {
+    "Key": "REGULATION_CN_STANDARD",
+    "Title": "标准赛制",
+    "Series": [
+      "SERIES_CN_S",
+      "SERIES_CN_SM"
+    ],
+    "BeginDate": "2022-10-28"
+  }
+]

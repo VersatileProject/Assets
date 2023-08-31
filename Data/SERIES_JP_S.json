@@ -1,0 +1,487 @@
+{
+  "Key": "SERIES_JP_S",
+  "Title": "ポケモンカードゲーム\u3000ソード＆シールドシリーズ",
+  "ShortTitle": "ソード＆シールドシリーズ",
+  "ReleaseDate": "2019-12-06",
+  "Products": [
+    {
+      "Key": "PRODUCT_JP_S_SP",
+      "Title": "プロモカード",
+      "Type": "Other",
+      "ReleaseDate": "2019-12-06T00:00:00",
+      "Abbreviation": "S-P"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S12A",
+      "Title": "ハイクラスパック「VSTARユニバース」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ12a",
+      "ReleaseDate": "2022-12-02T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s12a/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S12",
+      "Title": "拡張パック「パラダイムトリガー」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ12",
+      "ReleaseDate": "2022-10-21T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s12/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S11A",
+      "Title": "強化拡張パック「白熱のアルカナ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ11a",
+      "ReleaseDate": "2022-09-02T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s11a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S11",
+      "Title": "拡張パック「ロストアビス」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ11",
+      "ReleaseDate": "2022-07-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s11/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S10B",
+      "Title": "強化拡張パック Pokémon GO",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ10b",
+      "ReleaseDate": "2022-06-17T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s10b/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S10A",
+      "Title": "強化拡張パック「ダークファンタズマ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ10a",
+      "ReleaseDate": "2022-05-13T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s10a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S10D",
+      "Title": "拡張パック「タイムゲイザー」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ10D",
+      "ReleaseDate": "2022-04-08T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s10/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S10P",
+      "Title": "拡張パック「スペースジャグラー」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ10P",
+      "ReleaseDate": "2022-04-08T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s10"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S9A",
+      "Title": "強化拡張パック「バトルリージョン」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ9A",
+      "ReleaseDate": "2022-02-25T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s9a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S9",
+      "Title": "拡張パック「スターバース」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ9",
+      "ReleaseDate": "2022-01-14T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s9/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S8B",
+      "Title": "ハイクラスパック「VMAXクライマックス」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ8b",
+      "ReleaseDate": "2021-12-03T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s8b/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S8A",
+      "Title": "拡張パック「25th ANNIVERSARY COLLECTION」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ8a",
+      "ReleaseDate": "2021-10-22T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/25th/products/#anchor-box-20210625-1"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S8",
+      "Title": "拡張パック「フュージョンアーツ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ8",
+      "ReleaseDate": "2021-09-24T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s8.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S7D",
+      "Title": "拡張パック「摩天パーフェクト」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ7D",
+      "ReleaseDate": "2021-07-09T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s7.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S7R",
+      "Title": "拡張パック「蒼空ストリーム」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ7R",
+      "ReleaseDate": "2021-07-09T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s7.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S6A",
+      "Title": "強化拡張パック「イーブイヒーローズ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ6a",
+      "ReleaseDate": "2021-05-28T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s6a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S6H",
+      "Title": "拡張パック「白銀のランス」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ6H",
+      "ReleaseDate": "2021-04-23T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s6.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S6K",
+      "Title": "拡張パック「漆黒のガイスト」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ6K",
+      "ReleaseDate": "2021-04-23T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s6.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S5A",
+      "Title": "強化拡張パック「双璧のファイター」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ5a",
+      "ReleaseDate": "2021-03-19T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s5a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S5I",
+      "Title": "拡張パック「一撃マスター」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ5I",
+      "ReleaseDate": "2021-01-22T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s5.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S5R",
+      "Title": "拡張パック 「連撃マスター」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ5R",
+      "ReleaseDate": "2021-01-22T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s5.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S4A",
+      "Title": "ハイクラスパック 「シャイニースターV」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ4a",
+      "ReleaseDate": "2020-11-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s4a/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S4",
+      "Title": "拡張パック 「仰天のボルテッカー」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ4",
+      "ReleaseDate": "2020-09-18T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s4/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S3A",
+      "Title": "強化拡張パック「伝説の鼓動」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ3a",
+      "ReleaseDate": "2020-07-10T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s3a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S3",
+      "Title": "拡張パック「ムゲンゾーン」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ3",
+      "ReleaseDate": "2020-06-05T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s3/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S2A",
+      "Title": "強化拡張パック「爆炎ウォーカー」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ2a",
+      "ReleaseDate": "2020-04-24T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s2a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S2",
+      "Title": "拡張パック「反逆クラッシュ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ2",
+      "ReleaseDate": "2020-03-06T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s2/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S1A",
+      "Title": "強化拡張パック「VMAXライジング」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ1a",
+      "ReleaseDate": "2020-02-07T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/s1a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S1W",
+      "Title": "拡張パック「ソード」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ1W",
+      "ReleaseDate": "2019-12-06T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s1/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_S1H",
+      "Title": "拡張パック「シールド」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ1H",
+      "ReleaseDate": "2019-12-06T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/s1/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SO",
+      "Title": "スペシャルデッキセット リザードンVSTAR vs レックウザVMAX",
+      "Type": "Construction",
+      "Abbreviation": "ꜱO",
+      "ReleaseDate": "2022-11-04T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/so.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SPZ",
+      "Title": "VSTAR&VMAX ハイクラスデッキ ゼラオラ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱPZ",
+      "ReleaseDate": "2022-07-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sp.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SPD",
+      "Title": "VSTAR&VMAX ハイクラスデッキ デオキシス",
+      "Type": "Construction",
+      "Abbreviation": "ꜱPD",
+      "ReleaseDate": "2022-07-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sp.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SLL",
+      "Title": "スターターセットVSTAR ルカリオ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱLL",
+      "ReleaseDate": "2022-02-25T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sl.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SLD",
+      "Title": "スターターセットVSTAR ダークライ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱLD",
+      "ReleaseDate": "2022-02-25T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sl.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SJ",
+      "Title": "スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱJ",
+      "ReleaseDate": "2021-11-05T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sj.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SI",
+      "Title": "スタートデッキ100",
+      "Type": "Construction",
+      "Abbreviation": "ꜱI",
+      "ReleaseDate": "2021-12-17T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/si/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SH",
+      "Title": "ファミリーポケモンカードゲーム",
+      "Type": "Construction",
+      "Abbreviation": "ꜱH",
+      "ReleaseDate": "2021-07-09T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sh/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SGG",
+      "Title": "ハイクラスデッキ ゲンガーVMAX",
+      "Type": "Construction",
+      "Abbreviation": "ꜱGG",
+      "ReleaseDate": "2021-05-28T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sg.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SGI",
+      "Title": "ハイクラスデッキ インテレオンVMAX",
+      "Type": "Construction",
+      "Abbreviation": "ꜱGI",
+      "ReleaseDate": "2021-05-28T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sg.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SEF",
+      "Title": "スターターセットVMAX フシギバナ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱEF",
+      "ReleaseDate": "2020-12-04T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/SE.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SEK",
+      "Title": "スターターセットVMAX カメックス",
+      "Type": "Construction",
+      "Abbreviation": "ꜱEK",
+      "ReleaseDate": "2020-12-04T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/SE.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SD",
+      "Title": "Vスタートデッキ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱD",
+      "ReleaseDate": "2020-07-10T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sd/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SCL",
+      "Title": "スターターセットVMAX リザードン",
+      "Type": "Construction",
+      "Abbreviation": "ꜱC",
+      "ReleaseDate": "2020-03-27T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sc.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SCO",
+      "Title": "スターターセットVMAX オーロンゲ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱC",
+      "ReleaseDate": "2020-03-27T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sc.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SA01",
+      "Title": "スターターセットV 草",
+      "Type": "Construction",
+      "Abbreviation": "ꜱA",
+      "ReleaseDate": "2019-11-29T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sa/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SA02",
+      "Title": "スターターセットV 炎",
+      "Type": "Construction",
+      "Abbreviation": "ꜱA",
+      "ReleaseDate": "2019-11-29T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sa/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SA03",
+      "Title": "スターターセットV 水",
+      "Type": "Construction",
+      "Abbreviation": "ꜱA",
+      "ReleaseDate": "2019-11-29T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sa/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SA04",
+      "Title": "スターターセットV 雷",
+      "Type": "Construction",
+      "Abbreviation": "ꜱA",
+      "ReleaseDate": "2019-11-29T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sa/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SA05",
+      "Title": "スターターセットV 闘",
+      "Type": "Construction",
+      "Abbreviation": "ꜱA",
+      "ReleaseDate": "2019-11-29T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sa/"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SP6",
+      "Title": "VSTARスペシャルセット",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴘ6",
+      "ReleaseDate": "2022-08-05T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sp6.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SK",
+      "Title": "プレミアムトレーナーボックス VSTAR",
+      "Type": "Other",
+      "Abbreviation": "ꜱK",
+      "ReleaseDate": "2022-01-14T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sk.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SP5",
+      "Title": "スペシャルカードセット ミュウツーV-UNION、ゲッコウガV-UNION、ザシアンV-UNION",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴘ5",
+      "ReleaseDate": "2021-08-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sp5.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SP4",
+      "Title": "VMAXスペシャルセット イーブイヒーローズ",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴘ4",
+      "ReleaseDate": "2021-05-28T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sp4.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SP3",
+      "Title": "ジャンボパックセット 白銀のランス＆漆黒のガイスト",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴘ3",
+      "ReleaseDate": "2021-04-23T00:00:00",
+      "Url": "https://www.pokemon-card.com/info/2021/20210312_002830.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SF",
+      "Title": "プレミアムトレーナーボックス ICHIGEKI、RENGEKI",
+      "Type": "Other",
+      "Abbreviation": "ꜱF",
+      "ReleaseDate": "2021-01-22T00:00:00",
+      "Url": "https://www.pokemon-card.com/info/2020/20201215_002714.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SP2",
+      "Title": "VMAXスペシャルセット",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴘ2",
+      "ReleaseDate": "2020-10-23T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/s/sp2.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SP1",
+      "Title": "ザシアン＋ザマゼンタBOX",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴘ1",
+      "ReleaseDate": "2019-12-27T00:00:00",
+      "Url": "https://www.pokemon-card.com/info/2019/20191213_002222.html"
+    },
+    {
+      "Key": "PRODUCT_JP_S_SB",
+      "Title": "プレミアムトレーナーボックス ソード＆シールド",
+      "Type": "Other",
+      "Abbreviation": "ꜱB",
+      "ReleaseDate": "2019-12-06T00:00:00",
+      "Url": "https://www.pokemon-card.com/info/2019/20191110_002152.html"
+    }
+  ]
+}

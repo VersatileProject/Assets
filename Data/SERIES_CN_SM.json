@@ -1,0 +1,173 @@
+{
+  "Key": "SERIES_CN_SM",
+  "Title": "宝可梦集换式卡牌游戏 太阳&月亮系列",
+  "ShortTitle": "太阳&月亮系列",
+  "Products": [
+    {
+      "Key": "PRODUCT_CN_SM_CSM1AC",
+      "Title": "补充包 赫",
+      "Type": "Expansion",
+      "Abbreviation": "CSM1",
+      "ReleaseDate": "2022-10-28T10:00:00",
+      "Url": "https://www.pokemon.cn/special/tcg/Sun_Moon/"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSM1BC",
+      "Title": "补充包 苍",
+      "Type": "Expansion",
+      "Abbreviation": "CSM1",
+      "ReleaseDate": "2022-10-28T10:00:00",
+      "Url": "https://www.pokemon.cn/special/tcg/Sun_Moon/"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSM1CC",
+      "Title": "补充包 泽",
+      "Type": "Expansion",
+      "Abbreviation": "CSM1",
+      "ReleaseDate": "2022-10-28T10:00:00",
+      "Url": "https://www.pokemon.cn/special/tcg/Sun_Moon/"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSM1DC",
+      "Title": "起始卡组 横空出世GX",
+      "Type": "Construction",
+      "Abbreviation": "CSM1",
+      "ReleaseDate": "2022-10-28T10:00:00",
+      "Url": "https://www.pokemon.cn/special/tcg/Sun_Moon/"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSM15C",
+      "Title": "强化包 对战精英",
+      "Type": "Expansion",
+      "Abbreviation": "CSM1.5",
+      "ReleaseDate": "2022-12-16T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/post_32.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSM2AC",
+      "Title": "补充包 交相辉映 沐",
+      "Type": "Expansion",
+      "Abbreviation": "CSM2",
+      "ReleaseDate": "2023-01-18T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/post_38.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSM2BC",
+      "Title": "补充包 交相辉映 魁",
+      "Type": "Expansion",
+      "Abbreviation": "CSM2",
+      "ReleaseDate": "2023-01-18T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/post_38.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSM2CC",
+      "Title": "补充包 交相辉映 唤",
+      "Type": "Expansion",
+      "Abbreviation": "CSM2",
+      "ReleaseDate": "2023-01-18T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/post_38.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSM2DC",
+      "Title": "起始卡组 交相辉映GX",
+      "Type": "Construction",
+      "Abbreviation": "CSM2",
+      "ReleaseDate": "2023-01-18T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/post_38.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSM25C",
+      "Title": "强化包 炫奇争胜",
+      "Type": "Expansion",
+      "Abbreviation": "CSM2.5",
+      "ReleaseDate": "2023-03-17T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/post_58.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMJC",
+      "Title": "精灵球礼盒：闪耀宝可梦",
+      "Type": "Other",
+      "Abbreviation": "CSMJC",
+      "ReleaseDate": "2023-03-17T10:00:00",
+      "Url": "https://www.pokemon.cn/tcg/product/post_48.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMAC",
+      "Title": "阿尔宙斯&帝牙卢卡&帕路奇亚GX 卡组构筑进阶礼盒",
+      "Type": "Other",
+      "Abbreviation": "CSMAC",
+      "ReleaseDate": "2023-03-17T10:00:00",
+      "Url": "https://www.pokemon.cn/assets_c/2023/03/PTB-thumb-600xauto-19410.png"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMPAC",
+      "Title": "对战派对组合 【草属性】对战卡组",
+      "Type": "Other",
+      "Abbreviation": "CSMPAC",
+      "ReleaseDate": "2023-04-15",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_copy_5.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMPBC",
+      "Title": "对战派对组合 【火属性】对战卡组",
+      "Type": "Other",
+      "Abbreviation": "CSMPBC",
+      "ReleaseDate": "2023-04-15",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_copy_5.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMPCC",
+      "Title": "对战派对组合 【水属性】对战卡组",
+      "Type": "Other",
+      "Abbreviation": "CSMPCC",
+      "ReleaseDate": "2023-04-15",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_copy_5.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMPDC",
+      "Title": "对战派对组合 【雷属性】对战卡组",
+      "Type": "Other",
+      "Abbreviation": "CSMPDC",
+      "ReleaseDate": "2023-04-15",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_copy_5.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMPEC",
+      "Title": "对战派对组合 【超属性】对战卡组",
+      "Type": "Other",
+      "Abbreviation": "CSMPEC",
+      "ReleaseDate": "2023-04-15",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_copy_5.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMPFC",
+      "Title": "对战派对组合 【斗属性】对战卡组",
+      "Type": "Other",
+      "Abbreviation": "CSMPFC",
+      "ReleaseDate": "2023-04-15",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_copy_5.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMPGC",
+      "Title": "对战派对组合 【恶属性】对战卡组",
+      "Type": "Other",
+      "Abbreviation": "CSMPGC",
+      "ReleaseDate": "2023-04-15",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_copy_5.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_CSMPHC",
+      "Title": "对战派对组合 【钢属性】对战卡组",
+      "Type": "Other",
+      "Abbreviation": "CSMPHC",
+      "ReleaseDate": "2023-04-15",
+      "Url": "https://www.pokemon.cn/tcg/product/copy_copy_5.html"
+    },
+    {
+      "Key": "PRODUCT_CN_SM_PROMO",
+      "Title": "特典卡",
+      "Type": "PROMO",
+      "Abbreviation": "PROMO"
+    }
+  ]
+}

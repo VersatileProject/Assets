@@ -1,0 +1,499 @@
+{
+  "Key": "SERIES_JP_SM",
+  "Title": "ポケモンカードゲーム\u3000サン&ムーンシリーズ",
+  "ShortTitle": "サン&ムーンシリーズ",
+  "ReleaseDate": "2016-02-01",
+  "Products": [
+    {
+      "Key": "PRODUCT_JP_SM_SMP",
+      "Series": "SERIES_JP_SM",
+      "Title": "プロモカード",
+      "Type": "Other",
+      "Abbreviation": "SM-P"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM12A",
+      "Series": "SERIES_JP_SM",
+      "Title": "ハイクラスパック「TAG TEAM GX タッグオールスターズ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ12a",
+      "ReleaseDate": "2019-10-04T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm12a/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM12",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「オルタージェネシス」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ12",
+      "ReleaseDate": "2019-09-06T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm12/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM11B",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「ドリームリーグ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ11b",
+      "ReleaseDate": "2019-08-02T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm11b/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM11A",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「リミックスバウト」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ11a",
+      "ReleaseDate": "2019-07-05T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm11a/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM11",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「ミラクルツイン」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ11",
+      "ReleaseDate": "2019-05-31T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm11/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM10B",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「スカイレジェンド」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ10b",
+      "ReleaseDate": "2019-04-26T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm10b/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM10A",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「ジージーエンド」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ10a",
+      "ReleaseDate": "2019-04-05T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm10a/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMP2",
+      "Series": "SERIES_JP_SM",
+      "Title": "ムービースペシャルパック「名探偵ピカチュウ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍP2",
+      "ReleaseDate": "2019-04-26T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/smp2/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM10",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「ダブルブレイズ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ10",
+      "ReleaseDate": "2019-03-01T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm10/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM9B",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「フルメタルウォール」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ9b",
+      "ReleaseDate": "2019-02-01T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm9b/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM9A",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「ナイトユニゾン」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ9a",
+      "ReleaseDate": "2019-01-11T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm9a/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM9",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「タッグボルト」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ9",
+      "ReleaseDate": "2018-12-07T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm9/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM8B",
+      "Series": "SERIES_JP_SM",
+      "Title": "ハイクラスパック「GXウルトラシャイニー」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ8b",
+      "ReleaseDate": "2018-11-02T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm8b/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM8A",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「ダークオーダー」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ8a",
+      "ReleaseDate": "2018-10-05T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm8a/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM8",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「超爆インパクト」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ8",
+      "ReleaseDate": "2018-09-07T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm8/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM7B",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「フェアリーライズ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ7b",
+      "ReleaseDate": "2018-08-03T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm7b/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM7A",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「迅雷スパーク」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ7a",
+      "ReleaseDate": "2018-07-06T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm7a/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM7",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「裂空のカリスマ」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ7",
+      "ReleaseDate": "2018-06-01T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm7/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM6B",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「チャンピオンロード」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ6b",
+      "ReleaseDate": "2018-05-03T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm6b/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM6A",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「ドラゴンストーム」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ6a",
+      "ReleaseDate": "2018-04-06T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm6a/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM6",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「禁断の光」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ6",
+      "ReleaseDate": "2018-03-02T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm6/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM5P",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「ウルトラフォース」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ5+",
+      "ReleaseDate": "2018-01-19T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm5p/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM5S",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「ウルトラサン」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ5S",
+      "ReleaseDate": "2017-12-08T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm5/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM5M",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「ウルトラムーン」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ5M",
+      "ReleaseDate": "2017-12-08T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm5/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM4P",
+      "Series": "SERIES_JP_SM",
+      "Title": "ハイクラスパック「GXバトルブースト」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ4+",
+      "ReleaseDate": "2017-10-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm4p/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM4S",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「覚醒の勇者」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ4S",
+      "ReleaseDate": "2017-09-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm4/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM4A",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「超次元の暴獣」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ4A",
+      "ReleaseDate": "2017-09-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm4/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM3P",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「ひかる伝説」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ3+",
+      "ReleaseDate": "2017-07-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm3p/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM3H",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「闘う虹を見たか」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ3H",
+      "ReleaseDate": "2017-06-16T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm3/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM3N",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「光を喰らう闇」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ3N",
+      "ReleaseDate": "2017-06-16T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm3/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM2P",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「新たなる試練の向こう」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ2+",
+      "ReleaseDate": "2017-04-21T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm2p/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_XY",
+      "Series": "SERIES_JP_SM",
+      "Title": "ハイクラスパック「THE BEST OF XY」",
+      "Type": "Expansion",
+      "Abbreviation": "XY",
+      "ReleaseDate": "2017-04-21T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/best_of_xy.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM2K",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「キミを待つ島々」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ2K",
+      "ReleaseDate": "2017-03-17T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm2/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM2L",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「アローラの月光」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ2L",
+      "ReleaseDate": "2017-03-17T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm2/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM1P",
+      "Series": "SERIES_JP_SM",
+      "Title": "強化拡張パック「サン＆ムーン」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ1+",
+      "ReleaseDate": "2017-01-27T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm1p/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM1S",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「コレクション サン」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ1S",
+      "ReleaseDate": "2016-12-09T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm1/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM1M",
+      "Series": "SERIES_JP_SM",
+      "Title": "拡張パック「コレクション ムーン」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴍ1M",
+      "ReleaseDate": "2016-12-09T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sm1/index.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMM",
+      "Series": "SERIES_JP_SM",
+      "Title": "スターターセット TAG TEAM GX 「エーフィ&デオキシスGX」「ブラッキー&ダークライGX」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍM",
+      "ReleaseDate": "2019-05-31T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/smm.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SML",
+      "Series": "SERIES_JP_SM",
+      "Title": "ファミリーポケモンカードゲーム",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍL",
+      "ReleaseDate": "2019-03-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/article/family-pokeca/"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMK",
+      "Series": "SERIES_JP_SM",
+      "Title": "トレーナーバトルデッキ：ニビシティジムのタケシ、ハナダシティジムのカスミ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍK",
+      "ReleaseDate": "2019-01-25T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/smk.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMI",
+      "Series": "SERIES_JP_SM",
+      "Title": "スターターセット「炎のブースターGX」「水のシャワーズGX」「雷のサンダースGX」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍI",
+      "ReleaseDate": "2018-11-23T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/smi.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMH",
+      "Series": "SERIES_JP_SM",
+      "Title": "GXスタートデッキ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍH",
+      "ReleaseDate": "2018-07-13T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/smh/"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SME",
+      "Series": "SERIES_JP_SM",
+      "Title": "スターターセット伝説 ソルガレオGX ルナアーラGX",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍE",
+      "ReleaseDate": "2017-11-10T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/sme.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMD",
+      "Series": "SERIES_JP_SM",
+      "Title": "ポケモンカードゲーム サン＆ムーン  30枚デッキ対戦セット「サトシVSロケット団」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍD",
+      "ReleaseDate": "2017-04-21T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/smd.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMC",
+      "Series": "SERIES_JP_SM",
+      "Title": "スターターセット改造「カプ・ブルルGX」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍC",
+      "ReleaseDate": "2017-03-17T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/smc.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMA",
+      "Series": "SERIES_JP_SM",
+      "Title": "スターターセット「草 ジュナイパーGX」「炎 ガオガエンGX」「水 アシレーヌGX」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍA",
+      "ReleaseDate": "2016-12-09T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/sma.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMP1",
+      "Series": "SERIES_JP_SM",
+      "Title": "コロコロコミック1月号 イワンコ全力デッキ",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴍP1",
+      "ReleaseDate": "2016-12-15T00:00:00",
+      "Url": "https://www.pokemon-card.com/info/2016/20161015_000319.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMN",
+      "Series": "SERIES_JP_SM",
+      "Title": "デッキビルドBOX「TAG TEAM GX」",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴍN",
+      "ReleaseDate": "2019-03-01T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/smn.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMJ",
+      "Series": "SERIES_JP_SM",
+      "Title": "プレミアムトレーナーボックス TAG TEAM GX",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴍJ",
+      "ReleaseDate": "2018-12-07T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/smj.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_ENERGYSET",
+      "Series": "SERIES_JP_SM",
+      "Title": "エネルギーパック",
+      "Type": "Other",
+      "ReleaseDate": "2018-12-07T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMG",
+      "Series": "SERIES_JP_SM",
+      "Title": "デッキビルドBOX「ウルトラサン」「ウルトラムーン」",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴍG",
+      "ReleaseDate": "2018-02-16T00:00:00",
+      "Url": "https://www.pokemon-card.com/info/2018/20180115_001049.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMF",
+      "Series": "SERIES_JP_SM",
+      "Title": "プレミアムトレーナーボックス ウルトラサン・ウルトラムーン",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴍF",
+      "ReleaseDate": "2017-12-08T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/smf.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SMB",
+      "Series": "SERIES_JP_SM",
+      "Title": "プレミアムトレーナーボックス",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴍB",
+      "ReleaseDate": "2016-12-09T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/pt-box.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SM_SM0",
+      "Series": "SERIES_JP_SM",
+      "Title": "「ピカチュウと新しい仲間たち」",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴍ0",
+      "ReleaseDate": "2016-11-18T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sm/sm0.html"
+    }
+  ]
+}

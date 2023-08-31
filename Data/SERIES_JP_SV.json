@@ -1,0 +1,118 @@
+{
+  "Key": "SERIES_JP_SV",
+  "Title": "ポケモンカードゲーム\u3000スカーレット＆バイオレットシリーズ",
+  "ShortTitle": "スカーレット＆バイオレットシリーズ",
+  "ReleaseDate": "2023-01-20",
+  "Products": [
+    {
+      "Key": "PRODUCT_JP_SV_SVP",
+      "Abbreviation": "SV-P",
+      "Title": "プロモカード",
+      "Type": "Other"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SV3A",
+      "Title": "強化拡張パック「レイジングサーフ」",
+      "Abbreviation": "ꜱᴠ3a",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-09-22T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sv/sv3a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SV3",
+      "Title": "拡張パック「黒炎の支配者」",
+      "Abbreviation": "ꜱᴠ3",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-07-28T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sv3/"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SV2A",
+      "Title": "強化拡張パック「ポケモンカード151（イチゴーイチ）」",
+      "Abbreviation": "ꜱᴠ2a",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-06-16T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sv2a/"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SV2P",
+      "Title": "拡張パック「スノーハザード」",
+      "Abbreviation": "ꜱᴠ2P",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-04-14T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sv/sv2.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SV2D",
+      "Title": "拡張パック「クレイバースト」",
+      "Abbreviation": "ꜱᴠ2D",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-04-14T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sv/sv2.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SV1A",
+      "Title": "強化拡張パック「トリプレットビート」",
+      "Abbreviation": "ꜱᴠ1a",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-03-10T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sv/sv1a.html"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SV1S",
+      "Title": "拡張パック「スカーレット」",
+      "Abbreviation": "ꜱᴠ1S",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-01-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sv1/"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SV1V",
+      "Title": "拡張パック「バイオレット」",
+      "Abbreviation": "ꜱᴠ1V",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-01-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sv1/"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SVC",
+      "Title": "スターターセットex ピカチュウex&パーモット",
+      "Abbreviation": "ꜱᴠC",
+      "Type": "Construction",
+      "ReleaseDate": "2023-03-24T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/svc/"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SVAM",
+      "Title": "スターターセットex ニャオハ&ルカリオex",
+      "Abbreviation": "ꜱᴠAM",
+      "Type": "Construction",
+      "ReleaseDate": "2023-01-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sva/"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SVAL",
+      "Title": "スターターセットex ホゲータ&デンリュウex",
+      "Abbreviation": "ꜱᴠAL",
+      "Type": "Construction",
+      "ReleaseDate": "2023-01-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sva/"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SVAW",
+      "Title": "スターターセットex クワッス&ミミッキュex",
+      "Abbreviation": "ꜱᴠAW",
+      "Type": "Construction",
+      "ReleaseDate": "2023-01-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/ex/sva/"
+    },
+    {
+      "Key": "PRODUCT_JP_SV_SVB",
+      "Title": "プレミアムトレーナーボックス",
+      "Abbreviation": "ꜱᴠB",
+      "Type": "Other",
+      "ReleaseDate": "2023-01-20T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/sv/svb.html"
+    }
+  ]
+}

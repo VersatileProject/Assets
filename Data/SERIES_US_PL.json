@@ -1,0 +1,42 @@
+{
+  "Key": "SERIES_US_PL",
+  "Title": "Pokémon TCG: Platinum Series",
+  "ShortTitle": "Platinum Series",
+  "Products": [
+    {
+      "Key": "PRODUCT_US_PL_PL4",
+      "Abbreviation": "AR",
+      "Title": "Arceus",
+      "Type": "Expansion",
+      "ReleaseDate": "2009-11-04T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_PL_PL3",
+      "Abbreviation": "SV",
+      "Title": "Supreme Victors",
+      "Type": "Expansion",
+      "ReleaseDate": "2009-08-19T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_PL_PL2",
+      "Abbreviation": "RR",
+      "Title": "Rising Rivals",
+      "Type": "Expansion",
+      "ReleaseDate": "2009-05-16T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_PL_POP9",
+      "Abbreviation": "POP9",
+      "Title": "POP Series 9",
+      "Type": "Expansion",
+      "ReleaseDate": "2009-03-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_PL_PL1",
+      "Abbreviation": "PL",
+      "Title": "Platinum",
+      "Type": "Expansion",
+      "ReleaseDate": "2009-02-11T00:00:00"
+    }
+  ]
+}

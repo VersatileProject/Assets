@@ -1,0 +1,144 @@
+{
+  "Key": "SERIES_TW_SV",
+  "Title": "寶可夢集換式卡牌遊戲 朱&紫",
+  "ShortTitle": "朱&紫",
+  "ReleaseDate": "2023-02-03",
+  "Products": [
+    {
+      "Key": "PRODUCT_TW_SV_SVEM",
+      "Title": "起始組合 太晶 超夢ex",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴠEM",
+      "ReleaseDate": "2023-09-29T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archives/5950/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SVEL",
+      "Title": "起始組合 太晶 骨紋巨聲鱷ex",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴠEL",
+      "ReleaseDate": "2023-09-29T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archives/5950/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SV2P",
+      "Title": "強化擴充包「激狂駭浪」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴠ3a",
+      "ReleaseDate": "2023-09-29T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archives/5943/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SV3",
+      "Title": "擴充包「黯焰支配者」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴠ3",
+      "ReleaseDate": "2023-08-11T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archive/special/card/sv3/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SVD",
+      "Title": "ex初階牌組「草 狙射樹梟」「火 比克提尼」「水 甲賀忍蛙」「雷 密勒頓」「超 皮可西」「鬥 故勒頓」「惡 黑魯加」「鋼 美錄梅塔」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴠD",
+      "ReleaseDate": "2023-07-21T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archive/special/card/svd/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SV2A",
+      "Title": "強化擴充包「寶可夢卡牌151」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴠ2a",
+      "ReleaseDate": "2023-06-30T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archive/special/card/sv2a/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SVC",
+      "Title": "起始組合ex 皮卡丘ex&巴布土撥",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴠC",
+      "ReleaseDate": "2023-04-28T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archive/special/card/svc/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SV2P",
+      "Title": "擴充包「冰雪險境」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴠ2P",
+      "ReleaseDate": "2023-04-28T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archives/5065/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SV2D",
+      "Title": "擴充包「碟旋暴擊」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴠ2D",
+      "ReleaseDate": "2023-04-28T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archives/5065/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SV1A",
+      "Title": "強化擴充包「三連音爆」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴠ1a",
+      "ReleaseDate": "2023-03-24T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archives/4771/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SVB",
+      "Title": "頂級訓練家收藏箱ex",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴠB",
+      "ReleaseDate": "2023-03-03T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SVB"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SV1S",
+      "Title": "擴充包「朱ex」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴠ1S",
+      "ReleaseDate": "2023-02-03T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archive/special/card/sv1/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SV1V",
+      "Title": "擴充包「紫ex」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴠ1V",
+      "ReleaseDate": "2023-02-03T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archive/special/card/sv1/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SVAL",
+      "Title": "起始組合ex 呆火鱷&電龍 ex",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴠAL",
+      "ReleaseDate": "2023-02-03T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archive/special/card/sva/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SVAM",
+      "Title": "起始組合ex 新葉喵&路卡利歐 ex",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴠAM",
+      "ReleaseDate": "2023-02-03T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archive/special/card/sva/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SVAW",
+      "Title": "起始組合ex 潤水鴨&謎擬Ｑ ex",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴠAW",
+      "ReleaseDate": "2023-02-03T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/archive/special/card/sva/"
+    },
+    {
+      "Key": "PRODUCT_TW_SV_SVP",
+      "Title": "特典卡 朱&紫",
+      "Type": "Promo",
+      "Abbreviation": "SV-P",
+      "ReleaseDate": "2023-01-26T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SV-P"
+    }
+  ]
+}

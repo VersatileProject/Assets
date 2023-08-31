@@ -1,0 +1,111 @@
+{
+  "Key": "SERIES_JP_LEGEND",
+  "Title": "ポケモンカードゲーム\u3000LEGENDシリーズ",
+  "ShortTitle": "LEGENDシリーズ",
+  "Products": [
+    {
+      "Key": "PRODUCT_JP_LEGEND_LP",
+      "Title": "プロモーションカード",
+      "Type": "Promo",
+      "Abbreviation": "L-P"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_L1BHG",
+      "Title": "拡張パック「ハートゴールドコレクション」",
+      "Type": "Expansion",
+      "Abbreviation": "L1",
+      "ReleaseDate": "2009-10-09T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_L1BSS",
+      "Title": "拡張パック「ソウルシルバーコレクション」",
+      "Type": "Expansion",
+      "Abbreviation": "L1",
+      "ReleaseDate": "2009-10-09T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_BD",
+      "Title": "ポケモンカードゲーム バトルスタートデッキ ドダイトス",
+      "Type": "Construction",
+      "Abbreviation": "B",
+      "ReleaseDate": "2009-11-20T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_BB",
+      "Title": "ポケモンカードゲーム バトルスタートデッキ ブーバーン",
+      "Type": "Construction",
+      "Abbreviation": "B",
+      "ReleaseDate": "2009-11-20T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_BK",
+      "Title": "ポケモンカードゲーム バトルスタートデッキ カメックス",
+      "Type": "Construction",
+      "Abbreviation": "B",
+      "ReleaseDate": "2009-11-20T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_BR",
+      "Title": "ポケモンカードゲーム バトルスタートデッキ ライチュウ",
+      "Type": "Construction",
+      "Abbreviation": "B",
+      "ReleaseDate": "2009-11-20T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_EM",
+      "Title": "ポケモンカードゲーム エキスパートデッキ リーフィアVSメタグロス＋Online（リーフィアデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "E",
+      "ReleaseDate": "2009-11-20T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_EL",
+      "Title": "ポケモンカードゲーム エキスパートデッキ リーフィアVSメタグロス＋Online（メタグロスデッキ）",
+      "Type": "Construction",
+      "Abbreviation": "E",
+      "ReleaseDate": "2009-11-20T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_L2SB",
+      "Title": "構築スタンダードデッキ「バンギラス悪」",
+      "Type": "Construction",
+      "Abbreviation": "L2",
+      "ReleaseDate": "2010-02-11T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_L2SH",
+      "Title": "構築スタンダードデッキ「ハガネール鋼」",
+      "Type": "Construction",
+      "Abbreviation": "L2",
+      "ReleaseDate": "2010-02-11T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_L2B",
+      "Title": "拡張パック「よみがえる伝説」",
+      "Type": "Expansion",
+      "Abbreviation": "L2",
+      "ReleaseDate": "2010-02-11T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_LL",
+      "Title": "ポケモンカードゲーム 強化パック「ロストリンク」",
+      "Type": "Expansion",
+      "Abbreviation": "LL",
+      "ReleaseDate": "2010-04-16T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_L3B",
+      "Title": "拡張パック「頂上大激突」",
+      "Type": "Expansion",
+      "Abbreviation": "L3",
+      "ReleaseDate": "2010-07-08T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_LEGEND_PW",
+      "Title": "ポケモンカードゲーム ピカチュウ ワールド",
+      "Type": "Other",
+      "Abbreviation": "PW",
+      "ReleaseDate": "2010-07-08T00:00:00"
+    }
+  ]
+}

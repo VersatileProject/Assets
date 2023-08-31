@@ -1,0 +1,125 @@
+{
+  "Key": "SERIES_US_SM",
+  "Title": "Pokémon TCG: Sun & Moon Series",
+  "ShortTitle": "Sun & Moon Series",
+  "Products": [
+    {
+      "Key": "PRODUCT_US_SM_SMP",
+      "Abbreviation": "PR",
+      "Title": "Promo",
+      "Type": "Promo"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM12",
+      "Abbreviation": "CEC",
+      "Title": "Cosmic Eclipse",
+      "Type": "Expansion",
+      "ReleaseDate": "2019-09-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM115",
+      "Abbreviation": "HIF",
+      "Title": "Hidden Fates",
+      "Type": "Expansion",
+      "ReleaseDate": "2019-08-23T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM11",
+      "Abbreviation": "UNM",
+      "Title": "Unified Minds",
+      "Type": "Expansion",
+      "ReleaseDate": "2019-08-02T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM10",
+      "Abbreviation": "UNB",
+      "Title": "Unbroken Bonds",
+      "Type": "Expansion",
+      "ReleaseDate": "2019-05-03T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_DET",
+      "Abbreviation": "DET",
+      "Title": "Detective Pikachu",
+      "Type": "Expansion",
+      "ReleaseDate": "2019-03-29T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM9",
+      "Abbreviation": "TEU",
+      "Title": "Team Up",
+      "Type": "Expansion",
+      "ReleaseDate": "2019-02-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM8",
+      "Abbreviation": "LOT",
+      "Title": "Lost Thunder",
+      "Type": "Expansion",
+      "ReleaseDate": "2018-11-02T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM75",
+      "Abbreviation": "DRM",
+      "Title": "Dragon Majesty",
+      "Type": "Expansion",
+      "ReleaseDate": "2018-09-07T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM7",
+      "Abbreviation": "CES",
+      "Title": "Celestial Storm",
+      "Type": "Expansion",
+      "ReleaseDate": "2018-08-03T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM6",
+      "Abbreviation": "FLI",
+      "Title": "Forbidden Light",
+      "Type": "Expansion",
+      "ReleaseDate": "2018-05-04T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM5",
+      "Abbreviation": "UPR",
+      "Title": "Ultra Prism",
+      "Type": "Expansion",
+      "ReleaseDate": "2018-02-02T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM4",
+      "Abbreviation": "CIN",
+      "Title": "Crimson Invasion",
+      "Type": "Expansion",
+      "ReleaseDate": "2017-11-03T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM35",
+      "Abbreviation": "SLG",
+      "Title": "Shining Legends",
+      "Type": "Expansion",
+      "ReleaseDate": "2017-10-06T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM3",
+      "Abbreviation": "BUS",
+      "Title": "Burning Shadows",
+      "Type": "Expansion",
+      "ReleaseDate": "2017-08-04T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM2",
+      "Abbreviation": "GRI",
+      "Title": "Guardians Rising",
+      "Type": "Expansion",
+      "ReleaseDate": "2017-05-05T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SM_SM1",
+      "Abbreviation": "SUM",
+      "Title": "Sun & Moon",
+      "Type": "Expansion",
+      "ReleaseDate": "2017-02-03T00:00:00"
+    }
+  ]
+}

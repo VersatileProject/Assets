@@ -1,0 +1,154 @@
+{
+  "Key": "SERIES_US_EX",
+  "Title": "Pokémon TCG: EX Series",
+  "ShortTitle": "EX Series",
+  "Products": [
+    {
+      "Key": "PRODUCT_US_EX_POP5",
+      "Abbreviation": "POP5",
+      "Title": "POP Series 5",
+      "Type": "Expansion",
+      "ReleaseDate": "2007-03-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX16",
+      "Abbreviation": "PK",
+      "Title": "EX Power Keepers",
+      "Type": "Expansion",
+      "ReleaseDate": "2007-02-14T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX15",
+      "Abbreviation": "DF",
+      "Title": "EX Dragon Frontiers",
+      "Type": "Expansion",
+      "ReleaseDate": "2006-11-08T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_POP4",
+      "Abbreviation": "POP4",
+      "Title": "POP Series 4",
+      "Type": "Expansion",
+      "ReleaseDate": "2006-08-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX14",
+      "Abbreviation": "CG",
+      "Title": "EX Crystal Guardians",
+      "Type": "Expansion",
+      "ReleaseDate": "2006-08-30T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX13",
+      "Abbreviation": "HP",
+      "Title": "EX Holon Phantoms",
+      "Type": "Expansion",
+      "ReleaseDate": "2006-05-03T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_POP3",
+      "Abbreviation": "POP3",
+      "Title": "POP Series 3",
+      "Type": "Expansion",
+      "ReleaseDate": "2006-02-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX12",
+      "Abbreviation": "LM",
+      "Title": "EX Legend Maker",
+      "Type": "Expansion",
+      "ReleaseDate": "2006-02-13T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX11",
+      "Abbreviation": "DS",
+      "Title": "EX Delta Species",
+      "Type": "Expansion",
+      "ReleaseDate": "2005-10-31T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX10",
+      "Abbreviation": "UF",
+      "Title": "EX Unseen Forces",
+      "Type": "Expansion",
+      "ReleaseDate": "2005-08-22T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_POP2",
+      "Abbreviation": "POP2",
+      "Title": "POP Series 2",
+      "Type": "Expansion",
+      "ReleaseDate": "2005-05-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX9",
+      "Abbreviation": "EM",
+      "Title": "EX Emerald",
+      "Type": "Expansion",
+      "ReleaseDate": "2005-05-09T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX8",
+      "Abbreviation": "DX",
+      "Title": "EX Deoxys",
+      "Type": "Expansion",
+      "ReleaseDate": "2005-02-14T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX7",
+      "Abbreviation": "TRR",
+      "Title": "EX Team Rocket Returns",
+      "Type": "Expansion",
+      "ReleaseDate": "2004-11-08T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_POP1",
+      "Abbreviation": "POP1",
+      "Title": "POP Series 1",
+      "Type": "Expansion",
+      "ReleaseDate": "2004-09-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX6",
+      "Abbreviation": "RG",
+      "Title": "EX FireRed & LeafGreen",
+      "Type": "Expansion",
+      "ReleaseDate": "2004-08-30T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX5",
+      "Abbreviation": "HL",
+      "Title": "EX Hidden Legends",
+      "Type": "Expansion",
+      "ReleaseDate": "2004-06-14T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX4",
+      "Abbreviation": "MA",
+      "Title": "EX Team Magma vs Team Aqua",
+      "Type": "Expansion",
+      "ReleaseDate": "2004-03-15T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX3",
+      "Abbreviation": "DR",
+      "Title": "EX Dragon",
+      "Type": "Expansion",
+      "ReleaseDate": "2003-11-24T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX2",
+      "Abbreviation": "SS",
+      "Title": "EX Sandstorm",
+      "Type": "Expansion",
+      "ReleaseDate": "2003-09-18T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_EX_EX1",
+      "Abbreviation": "RS",
+      "Title": "EX Ruby & Sapphire",
+      "Type": "Expansion",
+      "ReleaseDate": "2003-06-18T00:00:00"
+    }
+  ]
+}

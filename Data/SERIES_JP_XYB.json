@@ -1,0 +1,141 @@
+{
+  "Key": "SERIES_JP_XYB",
+  "Title": "ポケモンカードゲームXY BREAKシリーズ",
+  "ShortTitle": "XY BREAKシリーズ",
+  "Products": [
+    {
+      "Key": "PRODUCT_JP_XYB_XYP",
+      "Abbreviation": "XY-P",
+      "Title": "プロモカード",
+      "Type": "Other"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_CP6",
+      "Title": "コンセプトパック「ポケットモンスターカードゲーム 拡張パック 20th Anniversary」",
+      "Type": "Expansion",
+      "Abbreviation": "CP6",
+      "ReleaseDate": "2016-09-16T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/cp6.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_CP5",
+      "Title": "コンセプトパック「幻・伝説ドリームキラコレクション」",
+      "Type": "Expansion",
+      "Abbreviation": "CP5",
+      "ReleaseDate": "2016-07-16T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/cp5.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_XY11BB",
+      "Title": "拡張パック「爆熱の闘士」",
+      "Type": "Expansion",
+      "Abbreviation": "XY11",
+      "ReleaseDate": "2016-06-17T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy11.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_XY11BR",
+      "Title": "拡張パック「冷酷の反逆者」",
+      "Type": "Expansion",
+      "Abbreviation": "XY11",
+      "ReleaseDate": "2016-06-17T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy11.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_20TH",
+      "Title": "「ポケットモンスターカードゲーム スターターパック」",
+      "Type": "Other",
+      "Abbreviation": "20th",
+      "ReleaseDate": "2016-02-27T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/20th.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_XYG",
+      "Title": "パーフェクトバトルデッキ60「ジガルデEX」",
+      "Type": "Construction",
+      "Abbreviation": "XYɢ",
+      "ReleaseDate": "2016-03-18T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xygh.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_XYH",
+      "Title": "メガバトルデッキ60「メガタブンネEX」",
+      "Type": "Construction",
+      "Abbreviation": "XYʜ",
+      "ReleaseDate": "2016-03-18T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xygh.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_CP4",
+      "Title": "プレミアムチャンピオンパック「EX×M×BREAK」",
+      "Type": "Expansion",
+      "Abbreviation": "CP4",
+      "ReleaseDate": "2016-04-16T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/cp4.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_CP3",
+      "Title": "コンセプトパック「ポケキュンコレクション」",
+      "Type": "Expansion",
+      "Abbreviation": "CP3",
+      "ReleaseDate": "2016-01-29T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/cp3.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_XY10B",
+      "Title": "拡張パック「めざめる超王」",
+      "Type": "Expansion",
+      "Abbreviation": "XY10",
+      "ReleaseDate": "2016-03-18T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy10.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_XY9B",
+      "Title": "拡張パック「破天の怒り」",
+      "Type": "Expansion",
+      "Abbreviation": "XY9",
+      "ReleaseDate": "2015-12-11T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy9.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_XYF",
+      "Title": "BREAKコンボデッキ60「ゴルダックBREAK+パルキアEX」",
+      "Type": "Construction",
+      "Abbreviation": "XYꜰ",
+      "ReleaseDate": "2015-10-09T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xyf.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_XY8BB",
+      "Title": "拡張パック「青い衝撃」",
+      "Type": "Expansion",
+      "Abbreviation": "XY8",
+      "ReleaseDate": "2015-09-26T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy8.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_XY8BR",
+      "Title": "拡張パック「赤い閃光」",
+      "Type": "Expansion",
+      "Abbreviation": "XY8",
+      "ReleaseDate": "2015-09-26T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/xy8.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_SNPR",
+      "Title": "BREAK進化パック「ライチュウBREAK」",
+      "Type": "Other",
+      "Abbreviation": "SNP",
+      "ReleaseDate": "2015-09-26T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/snp.html"
+    },
+    {
+      "Key": "PRODUCT_JP_XYB_SNPO",
+      "Title": "BREAK進化パック「オンバーンBREAK」",
+      "Type": "Other",
+      "Abbreviation": "SNP",
+      "ReleaseDate": "2015-09-26T00:00:00",
+      "Url": "https://www.pokemon-card.com/products/xy/snp.html"
+    }
+  ]
+}

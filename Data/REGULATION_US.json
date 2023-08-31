@@ -1,0 +1,36 @@
+[
+  {
+    "Key": "REGULATION_US_STANDARD",
+    "Title": "Standard Legal",
+    "Series": [
+      "SERIES_US_SWSH",
+      "SERIES_US_SV"
+    ]
+  },
+  {
+    "Key": "REGULATION_US_EXTRA",
+    "Title": "Expanded Format",
+    "Series": [
+      "SERIES_US_BW",
+      "SERIES_US_XY",
+      "SERIES_US_SM",
+      "SERIES_US_SWSH",
+      "SERIES_US_SV"
+    ]
+  },
+  {
+    "Key": "REGULATION_US_UNLIMITED",
+    "Title": "Unlimited",
+    "Series": [
+      "SERIES_US_EX",
+      "SERIES_US_DP",
+      "SERIES_US_PL",
+      "SERIES_US_HS",
+      "SERIES_US_BW",
+      "SERIES_US_XY",
+      "SERIES_US_SM",
+      "SERIES_US_SWSH",
+      "SERIES_US_SV"
+    ]
+  }
+]

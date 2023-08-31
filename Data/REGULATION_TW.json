@@ -1,0 +1,22 @@
+[
+  {
+    "Key": "REGULATION_TW_STANDARD",
+    "Title": "標準賽制",
+    "Description": "此賽制以新款卡牌為主，訂定其使用範圍，讓新手玩家也可輕鬆上手，多數官方比賽以此為規範進行賽事。",
+    "Series": [
+      "SERIES_TW_S",
+      "SERIES_TW_SV"
+    ],
+    "BeginDate": "2021-01-22"
+  },
+  {
+    "Key": "REGULATION_TW_EXTRA",
+    "Title": "開放賽制",
+    "Description": "與標準賽制不同，此賽制允許使用早期販售的卡牌，可使用的卡牌種類豐富，會帶來不同的遊戲感受。",
+    "Series": [
+      "SERIES_TW_SM",
+      "SERIES_TW_S",
+      "SERIES_TW_SV"
+    ]
+  }
+]

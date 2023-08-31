@@ -1,0 +1,180 @@
+{
+  "Key": "SERIES_US_SWSH",
+  "Title": "Pokémon TCG: Sword & Shield Series",
+  "ShortTitle": "Sword & Shield Series",
+  "Products": [
+    {
+      "Key": "PRODUCT_US_SWSH_SWSHP",
+      "Abbreviation": "PR",
+      "Title": "Promo",
+      "Type": "Promo"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSHE",
+      "Title": "Energy",
+      "Abbreviation": "SWSHE",
+      "Type": "Other"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH12PT5",
+      "Abbreviation": "CRZ",
+      "Title": "Crown Zenith",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-01-20T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH12",
+      "Abbreviation": "SIT",
+      "Title": "Silver Tempest",
+      "Type": "Expansion",
+      "ReleaseDate": "2022-09-11T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH12TG",
+      "Abbreviation": "SIT",
+      "Title": "Silver Tempest: Trainer Gallery",
+      "Type": "Expansion",
+      "ReleaseDate": "2022-09-11T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH11",
+      "Abbreviation": "LOR",
+      "Title": "Lost Origin",
+      "Type": "Expansion",
+      "ReleaseDate": "2022-09-09T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH11TG",
+      "Abbreviation": "LOR",
+      "Title": "Lost Origin: Trainer Gallery",
+      "Type": "Expansion",
+      "ReleaseDate": "2022-09-09T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_PGO",
+      "Abbreviation": "PGO",
+      "Title": "Pokémon GO",
+      "Type": "Expansion",
+      "ReleaseDate": "2022-07-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH10",
+      "Abbreviation": "ASR",
+      "Title": "Astral Radiance",
+      "Type": "Expansion",
+      "ReleaseDate": "2022-05-27T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH10TG",
+      "Abbreviation": "ASR",
+      "Title": "Astral Radiance: Trainer Gallery",
+      "Type": "Expansion",
+      "ReleaseDate": "2022-05-27T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH9",
+      "Abbreviation": "BRS",
+      "Title": "Brilliant Stars",
+      "Type": "Expansion",
+      "ReleaseDate": "2022-02-25T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH9TG",
+      "Abbreviation": "BRS",
+      "Title": "Brilliant Stars: Trainer Gallery",
+      "Type": "Expansion",
+      "ReleaseDate": "2022-02-25T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH8",
+      "Abbreviation": "FST",
+      "Title": "Fusion Strike",
+      "Type": "Expansion",
+      "ReleaseDate": "2021-11-12T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_CEL25",
+      "Abbreviation": "CEL",
+      "Title": "Celebrations",
+      "Type": "Expansion",
+      "ReleaseDate": "2021-10-08T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_CEL25C",
+      "Abbreviation": "CEL",
+      "Title": "Celebrations: Classic Collection",
+      "Type": "Expansion",
+      "ReleaseDate": "2021-10-08T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH7",
+      "Abbreviation": "EVS",
+      "Title": "Evolving Skies",
+      "Type": "Expansion",
+      "ReleaseDate": "2021-08-27T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH6",
+      "Abbreviation": "CRE",
+      "Title": "Chilling Reign",
+      "Type": "Expansion",
+      "ReleaseDate": "2021-06-18T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH5",
+      "Abbreviation": "BST",
+      "Title": "Battle Styles",
+      "Type": "Expansion",
+      "ReleaseDate": "2021-03-19T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH45",
+      "Abbreviation": "SHF",
+      "Title": "Shining Fates",
+      "Type": "Expansion",
+      "ReleaseDate": "2021-02-19T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH45SV",
+      "Abbreviation": "SHF",
+      "Title": "Shining Fates: Shiny Vault",
+      "Type": "Expansion",
+      "ReleaseDate": "2021-02-19T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH4",
+      "Abbreviation": "VIV",
+      "Title": "Vivid Voltage",
+      "Type": "Expansion",
+      "ReleaseDate": "2020-11-13T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH35",
+      "Abbreviation": "CPA",
+      "Title": "Champion’s Path",
+      "Type": "Expansion",
+      "ReleaseDate": "2020-09-25T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH3",
+      "Abbreviation": "DAA",
+      "Title": "Darkness Ablaze",
+      "Type": "Expansion",
+      "ReleaseDate": "2020-08-14T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH2",
+      "Abbreviation": "RCL",
+      "Title": "Rebel Clash",
+      "Type": "Expansion",
+      "ReleaseDate": "2020-05-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_SWSH_SWSH1",
+      "Abbreviation": "SSH",
+      "Title": "Sword & Shield",
+      "Type": "Expansion",
+      "ReleaseDate": "2020-02-07T00:00:00"
+    }
+  ]
+}

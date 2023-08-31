@@ -1,0 +1,211 @@
+[
+  {
+    "Key": "CARD_US_SVE_1",
+    "Name": "Basic {Grass} Energy",
+    "UniqueEffectId": 619348003306687131,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "001",
+    "ProductKeys": [
+      "PRODUCT_US_SV_SVE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SVE_2",
+    "Name": "Basic {Fire} Energy",
+    "UniqueEffectId": 15935664299727486987,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "002",
+    "ProductKeys": [
+      "PRODUCT_US_SV_SVE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SVE_3",
+    "Name": "Basic {Water} Energy",
+    "UniqueEffectId": 16486279642242844368,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "003",
+    "ProductKeys": [
+      "PRODUCT_US_SV_SVE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SVE_4",
+    "Name": "Basic {Lightning} Energy",
+    "UniqueEffectId": 7227164164339676363,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "004",
+    "ProductKeys": [
+      "PRODUCT_US_SV_SVE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SVE_5",
+    "Name": "Basic {Psychic} Energy",
+    "UniqueEffectId": 17267646576037134456,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "005",
+    "ProductKeys": [
+      "PRODUCT_US_SV_SVE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SVE_6",
+    "Name": "Basic {Fighting} Energy",
+    "UniqueEffectId": 9964016707254179197,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "006",
+    "ProductKeys": [
+      "PRODUCT_US_SV_SVE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SVE_7",
+    "Name": "Basic {Darkness} Energy",
+    "UniqueEffectId": 8253461651617365550,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "007",
+    "ProductKeys": [
+      "PRODUCT_US_SV_SVE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SVE_8",
+    "Name": "Basic {Metal} Energy",
+    "UniqueEffectId": 7560284331640790324,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "008",
+    "ProductKeys": [
+      "PRODUCT_US_SV_SVE"
+    ]
+  },
+  
+  {
+    "Key": "CARD_US_SWSHE_1",
+    "Name": "Basic {Grass} Energy",
+    "UniqueEffectId": 619348003306687131,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "001",
+    "ProductKeys": [
+      "PRODUCT_US_SWSH_SWSHE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SWSHE_2",
+    "Name": "Basic {Fire} Energy",
+    "UniqueEffectId": 15935664299727486987,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "002",
+    "ProductKeys": [
+      "PRODUCT_US_SWSH_SWSHE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SWSHE_3",
+    "Name": "Basic {Water} Energy",
+    "UniqueEffectId": 16486279642242844368,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "003",
+    "ProductKeys": [
+      "PRODUCT_US_SWSH_SWSHE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SWSHE_4",
+    "Name": "Basic {Lightning} Energy",
+    "UniqueEffectId": 7227164164339676363,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "004",
+    "ProductKeys": [
+      "PRODUCT_US_SWSH_SWSHE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SWSHE_5",
+    "Name": "Basic {Psychic} Energy",
+    "UniqueEffectId": 17267646576037134456,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "005",
+    "ProductKeys": [
+      "PRODUCT_US_SWSH_SWSHE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SWSHE_6",
+    "Name": "Basic {Fighting} Energy",
+    "UniqueEffectId": 9964016707254179197,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "006",
+    "ProductKeys": [
+      "PRODUCT_US_SWSH_SWSHE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SWSHE_7",
+    "Name": "Basic {Darkness} Energy",
+    "UniqueEffectId": 8253461651617365550,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "007",
+    "ProductKeys": [
+      "PRODUCT_US_SWSH_SWSHE"
+    ]
+  },
+  {
+    "Key": "CARD_US_SWSHE_8",
+    "Name": "Basic {Metal} Energy",
+    "UniqueEffectId": 7560284331640790324,
+    "Type": "Energy",
+    "Energy": {
+      "Type": "Basic"
+    },
+    "CollectionNumber": "008",
+    "ProductKeys": [
+      "PRODUCT_US_SWSH_SWSHE"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "Key": "SERIES_TW_SM",
+  "Title": "寶可夢集換式卡牌遊戲 太陽&月亮系列",
+  "ShortTitle": "太陽&月亮系列",
+  "ReleaseDate": "2019-10-09",
+  "Products": [
+    {
+      "Key": "PRODUCT_TW_SM_SP",
+      "Title": "特典卡 太陽&月亮",
+      "Type": "Promo",
+      "Abbreviation": "SM-P"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AS6A",
+      "Title": "擴充包「傳說交鋒」SET A",
+      "Type": "Expansion",
+      "Abbreviation": "ᴀꜱ6a",
+      "ReleaseDate": "2020-04-10T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AS6a"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AS6B",
+      "Title": "擴充包「傳說交鋒」SET B",
+      "Type": "Expansion",
+      "Abbreviation": "ᴀꜱ6b",
+      "ReleaseDate": "2020-04-10T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AS6b"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AS6D",
+      "Title": "G超起始牌組「傳說交鋒」",
+      "Type": "Construction",
+      "Abbreviation": "ᴀꜱ6D",
+      "ReleaseDate": "2020-04-10T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AS6D"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AS5A",
+      "Title": "擴充包「雙倍爆擊」SET A",
+      "Type": "Expansion",
+      "Abbreviation": "ᴀꜱ5a",
+      "ReleaseDate": "2020-02-21T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AS5a"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AS5B",
+      "Title": "擴充包「雙倍爆擊」SET B",
+      "Type": "Expansion",
+      "Abbreviation": "ᴀꜱ5b",
+      "ReleaseDate": "2020-02-21T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=As5b"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AS5D",
+      "Title": "G超起始牌組「雙倍爆擊」",
+      "Type": "Construction",
+      "Abbreviation": "ᴀꜱ5D",
+      "ReleaseDate": "2020-02-21T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AS5D"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AC2A",
+      "Title": "擴充包「美夢成真組合篇」SET A",
+      "Type": "Expansion",
+      "Abbreviation": "ᴀᴄ2a",
+      "ReleaseDate": "2019-12-20T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AC2a"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AC2B",
+      "Title": "擴充包「美夢成真組合篇」SET B",
+      "Type": "Expansion",
+      "Abbreviation": "ᴀᴄ2b",
+      "ReleaseDate": "2019-12-20T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AC2b"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AC2D",
+      "Title": "G超起始牌組「美夢成真組合篇」",
+      "Type": "Construction",
+      "Abbreviation": "ᴀᴄ2D",
+      "ReleaseDate": "2019-12-20T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AC2D"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AC1A",
+      "Title": "擴充包「眾星雲集組合篇」SET A",
+      "Type": "Expansion",
+      "Abbreviation": "ᴀᴄ1a",
+      "ReleaseDate": "2019-10-09T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AC1a"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AC1B",
+      "Title": "擴充包「眾星雲集組合篇」SET B",
+      "Type": "Expansion",
+      "Abbreviation": "ᴀᴄ1b",
+      "ReleaseDate": "2019-10-09T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AC1b"
+    },
+    {
+      "Key": "PRODUCT_TW_SM_AC1D",
+      "Title": "G超起始牌組「眾星雲集組合篇」",
+      "Type": "Construction",
+      "Abbreviation": "ᴀᴄ1D",
+      "ReleaseDate": "2019-10-09T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=AC1D"
+    }
+  ]
+}

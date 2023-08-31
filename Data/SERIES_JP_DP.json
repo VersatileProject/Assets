@@ -1,0 +1,97 @@
+{
+  "Key": "SERIES_JP_DP",
+  "Title": "ポケモンカードゲーム\u3000DPシリーズ",
+  "ShortTitle": "DPシリーズ",
+  "Products": [
+    {
+      "Key": "PRODUCT_JP_DP_DPP",
+      "Title": "プロモーションカード",
+      "Type": "Promo",
+      "Abbreviation": "DPP",
+      "ReleaseDate": "2006-10-27T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_DP1",
+      "Title": "拡張パック「時空の創造　ダイヤモンドコレクション・パールコレクション」",
+      "Type": "Expansion",
+      "Abbreviation": "DP1",
+      "ReleaseDate": "2006-11-30T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_DP2",
+      "Title": "拡張パック「湖の秘密」",
+      "Type": "Expansion",
+      "Abbreviation": "DP2",
+      "ReleaseDate": "2007-03-02T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_DP3",
+      "Title": "拡張パック「ひかる闇」",
+      "Type": "Expansion",
+      "Abbreviation": "DP3",
+      "ReleaseDate": "2007-07-05T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_DP4",
+      "Title": "拡張パック「月光の追跡・夜明けの疾走」",
+      "Type": "Expansion",
+      "Abbreviation": "DP4",
+      "ReleaseDate": "2007-10-26T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_DP5",
+      "Title": "拡張パック「秘境の叫び・怒りの神殿」",
+      "Type": "Expansion",
+      "Abbreviation": "DP5",
+      "ReleaseDate": "2007-10-26T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_MPS",
+      "Title": "「映画10周年記念 プレミアムシート」",
+      "Type": "Other",
+      "Abbreviation": "MPS",
+      "ReleaseDate": "2007-08-03T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_EP08",
+      "Title": "エントリーパック’08",
+      "Type": "Construction",
+      "Abbreviation": "EP08",
+      "ReleaseDate": "2007-11-30T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_DPSB",
+      "Title": "拡張パック「破空の激闘」",
+      "Type": "Expansion",
+      "Abbreviation": "DPs-B",
+      "ReleaseDate": "2008-07-10T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_DPSSG",
+      "Title": "対戦スターターパック「ギラティナVSディアルガ」(ギラティナデッキ)",
+      "Type": "Construction",
+      "Abbreviation": "DPs-S",
+      "ReleaseDate": "2008-07-10T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_DPSSD",
+      "Title": "対戦スターターパック「ギラティナVSディアルガ」(ディアルガデッキ)",
+      "Type": "Construction",
+      "Abbreviation": "DPs-S",
+      "ReleaseDate": "2008-07-10T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_MPS08",
+      "Title": "「映画公開記念 プレミアムシート2008」",
+      "Type": "Other",
+      "Abbreviation": "MPS08",
+      "ReleaseDate": "2008-08-01T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_JP_DP_PPP",
+      "Title": "プレイヤーズプロモーションカード",
+      "Type": "Promo",
+      "Abbreviation": "PPP"
+    }
+  ] 
+}

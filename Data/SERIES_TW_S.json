@@ -1,0 +1,400 @@
+{
+  "Key": "SERIES_TW_S",
+  "Title": "寶可夢集換式卡牌遊戲 劍&盾系列",
+  "ShortTitle": "劍&盾系列",
+  "ReleaseDate": "2020-06-19",
+  "Products": [
+    {
+      "Key": "PRODUCT_TW_S_SP",
+      "Title": "特典卡 劍&盾",
+      "Type": "Promo",
+      "Abbreviation": "S-P",
+      "ReleaseDate": "2022-12-15T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S-P"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SO",
+      "Title": "特別牌組組合 「噴火龍VSTAR vs 烈空坐VMAX」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱO",
+      "ReleaseDate": "2023-01-13T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SO"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S12A",
+      "Title": "高級擴充包「天地萬物VSTAR」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ12a",
+      "ReleaseDate": "2022-12-16T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S12a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S12",
+      "Title": "擴充包「思維激盪」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ12",
+      "ReleaseDate": "2022-11-04T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S12"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SDL",
+      "Title": "V初階牌組 「噴火龍」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱDL",
+      "ReleaseDate": "2022-11-04T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SDL"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SDP",
+      "Title": "V初階牌組 「皮卡丘」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱDP",
+      "ReleaseDate": "2022-11-04T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SDP"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SDM",
+      "Title": "V初階牌組 「超夢」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱDM",
+      "ReleaseDate": "2022-11-04T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SDM"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SN",
+      "Title": "初階牌組100 特別版",
+      "Type": "Construction",
+      "Abbreviation": "ꜱN",
+      "ReleaseDate": "2022-10-02T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SN"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S11A",
+      "Title": "強化擴充包「白熱奧祕」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ11a",
+      "ReleaseDate": "2022-09-16T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S11a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SPZ",
+      "Title": "VSTAR&VMAX 高級牌組 捷拉奧拉",
+      "Type": "Construction",
+      "Abbreviation": "SPZ",
+      "ReleaseDate": "2022-08-26T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SPZ"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SPD",
+      "Title": "VSTAR&VMAX 高級牌組 代歐奇希斯",
+      "Type": "Construction",
+      "Abbreviation": "ꜱPD",
+      "ReleaseDate": "2022-08-26T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SPD"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SP6",
+      "Title": "VSTAR特別組合",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴘ6",
+      "ReleaseDate": "2022-08-26T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SP6"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S11",
+      "Title": "擴充包 「迷途深淵」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ11",
+      "ReleaseDate": "2022-07-29T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S11"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S10B",
+      "Title": "強化擴充包「Pokémon GO」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ10b",
+      "ReleaseDate": "2022-06-17T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S10b"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S10A",
+      "Title": "強化擴充包「黑暗亡靈」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ10a",
+      "ReleaseDate": "2022-05-27T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S10a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S10D",
+      "Title": "擴充包「時間觀察者」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ10D",
+      "ReleaseDate": "2022-04-22T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S10D"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S10P",
+      "Title": "擴充包「空間魔術師」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ10P",
+      "ReleaseDate": "2022-04-22T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S10P"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S9A",
+      "Title": "強化擴充包「對戰地區」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ9a",
+      "ReleaseDate": "2022-03-11T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S9a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SLL",
+      "Title": "起始組合VSTAR 路卡利歐",
+      "Type": "Construction",
+      "Abbreviation": "ꜱLL",
+      "ReleaseDate": "2022-03-11T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SLL"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SLD",
+      "Title": "起始組合VSTAR 達克萊伊",
+      "Type": "Construction",
+      "Abbreviation": "ꜱLD",
+      "ReleaseDate": "2022-03-11T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SLD"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SI",
+      "Title": "初階牌組100",
+      "Type": "Construction",
+      "Abbreviation": "ꜱI",
+      "ReleaseDate": "2022-02-18T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SI"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SJ",
+      "Title": "特別牌組組合 蒼響・藏瑪然特VS無極汰那",
+      "Type": "Construction",
+      "Abbreviation": "ꜱJ",
+      "ReleaseDate": "2022-01-28T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SJ"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S9",
+      "Title": "擴充包「星星誕生」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ9",
+      "ReleaseDate": "2022-01-28T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S9"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SK",
+      "Title": "頂級訓練家收藏箱 VSTAR",
+      "Type": "Other",
+      "Abbreviation": "ꜱK",
+      "ReleaseDate": "2022-01-28T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SK"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S8B",
+      "Title": "高級擴充包「VMAX絕群壓軸」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ8b",
+      "ReleaseDate": "2021-12-17T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S8b"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S8A",
+      "Title": "擴充包「25週年收藏款」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ8a",
+      "ReleaseDate": "2021-10-20T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S8a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S8",
+      "Title": "擴充包「匯流藝術」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ8",
+      "ReleaseDate": "2021-10-01T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S8"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SCD",
+      "Title": "V起始牌組 「強大」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴄD",
+      "ReleaseDate": "2021-10-01T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SCD"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SP5",
+      "Title": "超夢V-UNION、甲賀忍蛙V-UNION、蒼響V-UNION",
+      "Type": "Other",
+      "Abbreviation": "ꜱᴘ5",
+      "ReleaseDate": "2021-08-27T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SP5"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SH",
+      "Title": "寶可夢卡牌家庭組合",
+      "Type": "Other",
+      "Abbreviation": "ꜱH",
+      "ReleaseDate": "2021-08-06T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SH"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S7D",
+      "Title": "擴充包「摩天巔峰」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ7D",
+      "ReleaseDate": "2021-07-23T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S7D"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S7R",
+      "Title": "擴充包「蒼空烈流」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ7R",
+      "ReleaseDate": "2021-07-23T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S7R"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S6A",
+      "Title": "強化擴充包「伊布英雄」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ6a",
+      "ReleaseDate": "2021-06-11T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S6a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SCC",
+      "Title": "V起始牌組 「進化」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴄC",
+      "ReleaseDate": "2021-06-11T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SCC"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S6H",
+      "Title": "擴充包「銀白戰槍」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ6H",
+      "ReleaseDate": "2021-05-07T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S6H"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S6K",
+      "Title": "擴充包「漆黑幽魂」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ6K",
+      "ReleaseDate": "2021-05-07T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S6K"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S5A",
+      "Title": "強化擴充包「雙璧戰士」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ5a",
+      "ReleaseDate": "2021-04-02T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S5a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S5I",
+      "Title": "擴充包「一撃大師」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ5I",
+      "ReleaseDate": "2021-01-29T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S5I"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S5R",
+      "Title": "擴充包「連撃大師」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ5R",
+      "ReleaseDate": "2021-01-29T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S5R"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SCB",
+      "Title": "V起始牌組 「挑戰」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴄB",
+      "ReleaseDate": "2021-01-29T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SCB"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S4A",
+      "Title": "高級擴充包「閃色明星V」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ4a",
+      "ReleaseDate": "2020-11-27T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S4a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SCA",
+      "Title": "V起始牌組 「搭檔」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴄA",
+      "ReleaseDate": "2020-11-27T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SCA"
+    },
+    {
+      "Key": "PRODUCT_TW_S_S4",
+      "Title": "擴充包「驚天伏特攻擊」",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱ4",
+      "ReleaseDate": "2020-10-09T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=S4"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SC2A",
+      "Title": "擴充包「無極力量」SET A",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴄ2a",
+      "ReleaseDate": "2020-08-21T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SC2a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SC2B",
+      "Title": "擴充包「無極力量」SET B",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴄ2b",
+      "ReleaseDate": "2020-08-21T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SC2b"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SC2D",
+      "Title": "V起始牌組「無極力量」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴄ2D",
+      "ReleaseDate": "2020-08-21T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SC2D"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SC1B",
+      "Title": "擴充包「劍&盾」SET B",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴄ1b",
+      "ReleaseDate": "2020-06-19T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SC1b"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SC1A",
+      "Title": "擴充包「劍&盾」SET A",
+      "Type": "Expansion",
+      "Abbreviation": "ꜱᴄ1a",
+      "ReleaseDate": "2020-06-19T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SC1a"
+    },
+    {
+      "Key": "PRODUCT_TW_S_SC1D",
+      "Title": "V起始牌組「劍&盾」",
+      "Type": "Construction",
+      "Abbreviation": "ꜱᴄ1D",
+      "ReleaseDate": "2020-06-19T00:00:00",
+      "Url": "https://asia.pokemon-card.com/tw/card-search/list/?expansionCodes=SC1D"
+    }
+  ]
+}

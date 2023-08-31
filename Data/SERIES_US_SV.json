@@ -1,0 +1,59 @@
+{
+  "Key": "SERIES_US_SV",
+  "Title": "Pokémon TCG: Scarlet & Violet Series",
+  "ShortTitle": "Scarlet & Violet Series",
+  "Products": [
+    {
+      "Key": "PRODUCT_US_SV_SVP",
+      "Abbreviation": "PR",
+      "Title": "Promo",
+      "Type": "Promo"
+    },
+    {
+      "Key": "PRODUCT_US_SV_SVE",
+      "Title": "Energy",
+      "Abbreviation": "SVE",
+      "Type": "Other"
+    },
+    {
+      "Key": "PRODUCT_US_SV_SV04",
+      "Title": "Paradox Rift",
+      "Abbreviation": "SV04",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-11-03T00:00:00",
+      "Url": "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-paradox-rift/"
+    },
+    {
+      "Key": "PRODUCT_US_SV_SV151",
+      "Title": "151",
+      "Abbreviation": "151",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-08-11T00:00:00",
+      "Url": "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-151/"
+    },
+    {
+      "Key": "PRODUCT_US_SV_SV03",
+      "Title": "Obsidian Flames",
+      "Abbreviation": "OBF",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-06-09T00:00:00",
+      "Url": "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-obsidian-flames/"
+    },
+    {
+      "Key": "PRODUCT_US_SV_SV02",
+      "Title": "Paldea Evolved",
+      "Abbreviation": "PAL",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-06-09T00:00:00",
+      "Url": "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet-paldea-evolved/"
+    },
+    {
+      "Key": "PRODUCT_US_SV_SV01",
+      "Title": "Scarlet & Violet",
+      "Abbreviation": "SV1",
+      "Type": "Expansion",
+      "ReleaseDate": "2023-03-31T00:00:00",
+      "Url": "https://www.pokemon.com/us/pokemon-tcg/scarlet-violet/"
+    }
+  ]
+}

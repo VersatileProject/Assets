@@ -1,0 +1,48 @@
+{
+  "Key": "SERIES_US_HS",
+  "Title": "Pokémon TCG: HeartGold & SoulSilver Series",
+  "ShortTitle": "HeartGold & SoulSilver Series",
+  "Products": [
+    {
+      "Key": "PRODUCT_US_HS_HSP",
+      "Abbreviation": "PR",
+      "Title": "Promo",
+      "Type": "Promo"
+    },
+    {
+      "Key": "PRODUCT_US_HS_COL1",
+      "Abbreviation": "CL",
+      "Title": "Call of Legends",
+      "Type": "Expansion",
+      "ReleaseDate": "2011-02-09T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_HS_HGSS4",
+      "Abbreviation": "TM",
+      "Title": "Triumphant",
+      "Type": "Expansion",
+      "ReleaseDate": "2010-11-03T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_HS_HGSS3",
+      "Abbreviation": "UD",
+      "Title": "Undaunted",
+      "Type": "Expansion",
+      "ReleaseDate": "2010-08-18T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_HS_HGSS2",
+      "Abbreviation": "UL",
+      "Title": "Unleashed",
+      "Type": "Expansion",
+      "ReleaseDate": "2010-05-12T00:00:00"
+    },
+    {
+      "Key": "PRODUCT_US_HS_HGSS1",
+      "Abbreviation": "HS",
+      "Title": "HeartGold & SoulSilver",
+      "Type": "Expansion",
+      "ReleaseDate": "2010-02-10T00:00:00"
+    }
+  ]
+}
